@@ -1,5 +1,5 @@
-Guess The Friend - [:game_die: Click here to play](http://i.sindro.me)
-======================================================================
+Guess The Friend
+================
 
 This is a complete Rails app developed in 48 hours during the 2012 [Rails Rumble](http://railsrumble.com), in
 the context of the [48Rails](http://48rails.it)
